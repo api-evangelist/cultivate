@@ -1,22 +1,67 @@
 aid: cultivate
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cultivate.png
 name: Cultivate
-description: Cultivate is a company surfaced as a portfolio company of bloomberg-beta and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Cultivate was an AI-powered digital leadership and coaching platform that analyzed
+  leaders' own opt-in digital communication data to deliver hyper-personalized, privacy-preserving
+  coaching insights and recommendations for people managers. Founded through an Entrepreneur in
+  Residence program at Samsung NEXT by Joseph Freed, Samir Meghani, and Andy Horng, and backed by
+  Trinity Ventures, Silicon Valley Data Capital, and Bloomberg Beta, Cultivate was acquired by employee
+  listening and people-analytics company Perceptyx on February 15, 2022, where it became the basis for
+  Perceptyx's "Cultivate Intelligent Coaching" product. Cultivate operated as an enterprise HR/leadership
+  SaaS and did not publish a public developer API or OpenAPI. This profile is retained as a
+  portfolio-lead record; the company no longer exists as an independent entity.
 url: https://raw.githubusercontent.com/api-evangelist/cultivate/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - bloomberg-beta
+x-investors:
+- trinity-ventures
+- silicon-valley-data-capital
+- bloomberg-beta
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-acquired-by: perceptyx
+x-acquired-date: '2022-02-15'
+x-founders:
+- Joseph Freed
+- Samir Meghani
+- Andy Horng
+x-enrichment-note: Acquired by Perceptyx (2022) and absorbed as "Cultivate Intelligent Coaching";
+  no first-party developer surface or public API exists. The current cultivate.co domain belongs to an
+  unrelated organizational-culture consultancy and is not this company. No developer artifacts to enrich.
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Leadership Development
+- Coaching
+- People Analytics
+- Human Resources
+- Artificial Intelligence
+- Enterprise SaaS
+- Acquired
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
