@@ -42,7 +42,7 @@ x-founders:
 x-enrichment-note: Acquired by Perceptyx (2022) and absorbed as "Cultivate Intelligent Coaching";
   no first-party developer surface or public API exists. The current cultivate.co domain belongs to an
   unrelated organizational-culture consultancy and is not this company. No developer artifacts to enrich.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
