@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cultivate is a company surfaced as a portfolio company of bloomberg-beta and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: bloomberg-beta
+Cultivate was an AI-powered digital leadership and coaching platform that analyzed leaders' own opt-in digital communication data to deliver hyper-personalized, privacy-preserving coaching insights and recommendations for people managers. Founded through an Entrepreneur in Residence program at Samsung NEXT by Joseph Freed, Samir Meghani, and Andy Horng, and backed by Trinity Ventures, Silicon Valley Data Capital, and Bloomberg Beta, Cultivate was acquired by employee listening and people-analytics company Perceptyx on February 15, 2022, where it became the basis for Perceptyx's "Cultivate Intelligent Coaching" product. Cultivate operated as an enterprise HR/leadership SaaS and did not publish a public developer API or OpenAPI. This profile is retained as a portfolio-lead record; the company no longer exists as an independent entity.
+
+**Areas:** Company · Leadership Development · Coaching · People Analytics · Human Resources · Artificial Intelligence · Enterprise Saas · Acquired
+
+## Cultivate on APIs.io (historical record)
+
+Everything profiled for Cultivate is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cultivate/](https://apis.io/providers/cultivate/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cultivate: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cultivate/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
